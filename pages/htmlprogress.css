@@ -32,7 +32,8 @@ footer {
     flex-direction: column;
 }
 @media (min-width: 768px) {
-    body{background-color:lightgreen;}
+    body{background-color:lightgreen;
+        padding: 15px;}
 }
 @media (max-width: 1024px) {
     body{background-color:red;}

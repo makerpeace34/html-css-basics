@@ -36,5 +36,5 @@ footer {
         padding: 15px;}
 }
 @media (max-width: 1024px) {
-    body{background-color:red;}
+    body{background-color:lightgreen;}
 }

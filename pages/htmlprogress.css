@@ -8,10 +8,10 @@ div {
     display: grid;
     grid-template-columns: 1fr 1fr ; 
     background-color: lightblue;
-    border: solid black 5px;
+    /**border: solid black 5px;**/
 }
 .profile-image {
-    border: solid black 5px;
+    /**border: solid black 5px;**/
     border-radius: 200px;
 }
 .all-divs {
